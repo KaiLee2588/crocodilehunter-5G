@@ -1,9 +1,7 @@
 [submodule "src/srsLTE"]
 	path = src/srsLTE
 	url = https://github.com/EFForg/srsLTE.git
-[submodule "src/srsRAN_Project"]
-	path = srsRAN_Project
-	url = https://github.com/srsran/srsRAN_Project.git
+
 [submodule "src/srsRAN"]
 	path = src/srsRAN
-	url = https://github.com/srsran/srsRAN_Project.git
+	url = https://github.com/KaiLee2588/srsRAN_Project.git
